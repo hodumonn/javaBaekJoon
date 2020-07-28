@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Java2884",
+            "request": "launch",
+            "mainClass": "Java2884",
+            "console": "integratedTerminal"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Java14681",
             "request": "launch",
             "mainClass": "Java14681",
