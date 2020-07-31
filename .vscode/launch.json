@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Java2438",
+            "request": "launch",
+            "mainClass": "FORStudy.Java2438",
+            "projectName": "Java_f3844ae5"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Java11022",
             "request": "launch",
             "mainClass": "FORStudy.Java11022",
