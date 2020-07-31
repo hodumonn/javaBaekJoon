@@ -1,3 +1,5 @@
+package IFStudy;
+
 import java.util.Scanner;
 
 public class Java2884{
