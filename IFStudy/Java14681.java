@@ -13,5 +13,6 @@ public class Java14681{
         else if(num1 > 0 && num2 < 0) System.out.println("4");
         else if(num1 < 0 && num2 < 0) System.out.println("3");
         else if(num1 < 0 && num2 > 0) System.out.println("2");
+        sc.close();
     }
 }

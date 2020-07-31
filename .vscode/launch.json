@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Java15552",
+            "request": "launch",
+            "mainClass": "FORStudy.Java15552",
+            "projectName": "Java_f3844ae5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Java2739",
+            "request": "launch",
+            "mainClass": "FORStudy.Java2739",
+            "projectName": "Java_f3844ae5"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "FORStudy.Main",
+            "projectName": "Java_f3844ae5"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Java2739",
             "request": "launch",
             "mainClass": "Java2739",

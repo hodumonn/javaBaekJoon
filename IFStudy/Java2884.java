@@ -18,5 +18,6 @@ public class Java2884{
         System.out.print(hour);
         System.out.print(" ");
         System.out.println(mi-45);
+        sc.close();
     }
 }
