@@ -2,6 +2,19 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - Java10871",
+            "request": "launch",
+            "mainClass": "Java10871",
+            "console": "integratedTerminal"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Java10873",
+            "request": "launch",
+            "mainClass": "Java10873"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Java2439",
             "request": "launch",
             "mainClass": "FORStudy.Java2439",
