@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Java10951",
+            "request": "launch",
+            "mainClass": "WHILEStudy.Java10951",
+            "projectName": "BaekJoon_7e64cfa8"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Java10952",
             "request": "launch",
             "mainClass": "Java10952",
