@@ -1,3 +1,5 @@
+package WHILEStudy;
+
 import java.io.*;
 import java.util.StringTokenizer;
 
