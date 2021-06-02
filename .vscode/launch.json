@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Java1546",
+            "request": "launch",
+            "mainClass": "ARRStudy.Java1546",
+            "projectName": "BaekJoon_7e64cfa8"
+        },
+        {
+            "type": "java",
             "name": "Launch Java3052",
             "request": "launch",
             "mainClass": "ARRStudy.Java3052",
